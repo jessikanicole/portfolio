@@ -1,58 +1,13 @@
 {
   "work": [
     {
-      "id": "w1",
+      "id": "id9ikdbmw",
       "category": "branding",
-      "client": "Dreamer Hostels",
       "year": "2025",
-      "titleEn": "Project title",
-      "titleEs": "Título del proyecto",
-      "image": ""
-    },
-    {
-      "id": "w2",
-      "category": "social",
-      "client": "Dreamer Hostels",
-      "year": "2025",
-      "titleEn": "Project title",
-      "titleEs": "Título del proyecto",
-      "image": ""
-    },
-    {
-      "id": "w3",
-      "category": "marketing",
-      "client": "Dreamer Hostels",
-      "year": "2025",
-      "titleEn": "Project title",
-      "titleEs": "Título del proyecto",
-      "image": ""
-    },
-    {
-      "id": "w4",
-      "category": "fnb",
-      "client": "Dreamer Palomino",
-      "year": "2025",
-      "titleEn": "Menu design",
-      "titleEs": "Diseño de menú",
-      "image": ""
-    },
-    {
-      "id": "w5",
-      "category": "fnb",
-      "client": "Dreamer Cocora",
-      "year": "2025",
-      "titleEn": "Restaurant content",
-      "titleEs": "Contenido de restaurante",
-      "image": ""
-    },
-    {
-      "id": "w6",
-      "category": "branding",
-      "client": "42 Design Agency",
-      "year": "2024",
-      "titleEn": "Project title",
-      "titleEs": "Título del proyecto",
-      "image": ""
+      "client": "Retaurant",
+      "titleEn": "Retaurant",
+      "titleEs": "Retaurant",
+      "image": "https://github.com/jessikanicole/portfolio/blob/main/Dreamer_Cocora_portafolio_mejorada_3x.png?raw=true"
     }
   ],
   "reels": [
