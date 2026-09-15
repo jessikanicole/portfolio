@@ -57,36 +57,12 @@
   ],
   "reels": [
     {
-      "id": "r1",
+      "id": "idspiwg1e",
       "category": "fnb",
-      "client": "Dreamer Palomino",
-      "titleEn": "Reel title",
-      "titleEs": "Título del reel",
-      "video": ""
-    },
-    {
-      "id": "r2",
-      "category": "fnb",
-      "client": "Dreamer Cocora",
-      "titleEn": "Reel title",
-      "titleEs": "Título del reel",
-      "video": ""
-    },
-    {
-      "id": "r3",
-      "category": "branding",
-      "client": "Dreamer Bogotá",
-      "titleEn": "Reel title",
-      "titleEs": "Título del reel",
-      "video": ""
-    },
-    {
-      "id": "r4",
-      "category": "social",
-      "client": "Dreamer Palomino",
-      "titleEn": "Reel title",
-      "titleEs": "Título del reel",
-      "video": ""
+      "client": "Restaurant",
+      "titleEn": "Restaurant",
+      "titleEs": "Restaurant",
+      "video": "https://drive.google.com/file/d/1BPlv0DXA3Ei-HGhJ0hD-x-bToJfHwO2x/view?usp=drive_link"
     }
   ]
 }
