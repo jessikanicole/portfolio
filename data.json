@@ -57,12 +57,92 @@
   ],
   "reels": [
     {
-      "id": "idoet6gl8",
-      "category": "branding",
-      "client": "Restaurant",
+      "id": "idvutru27",
+      "category": "fnb",
+      "client": "Restaurant Cocora",
       "titleEn": "Restaurant",
       "titleEs": "Restaurant",
       "video": "https://player.vimeo.com/video/1226836820"
+    },
+    {
+      "id": "idlkrbwv6",
+      "category": "fnb",
+      "client": "Restaurant Dreamer",
+      "titleEn": "Restaurant",
+      "titleEs": "Restaurant",
+      "video": "https://player.vimeo.com/video/1226836814"
+    },
+    {
+      "id": "id9lbvhw2",
+      "category": "fnb",
+      "client": "Restaurant",
+      "titleEn": "Social Media",
+      "titleEs": "Social Media",
+      "video": "https://player.vimeo.com/video/1226837157"
+    },
+    {
+      "id": "id5t4il0i",
+      "category": "fnb",
+      "client": "Restaurant",
+      "titleEn": "Restaurant",
+      "titleEs": "Restaurant",
+      "video": "https://player.vimeo.com/video/1226836766"
+    },
+    {
+      "id": "idpbo1sdp",
+      "category": "fnb",
+      "client": "Restaurant",
+      "titleEn": "Cocktails",
+      "titleEs": "Cocktails",
+      "video": "https://player.vimeo.com/video/1226836764"
+    },
+    {
+      "id": "idvugn4wh",
+      "category": "social",
+      "client": "Restaurant",
+      "titleEn": "Reel",
+      "titleEs": "Reel",
+      "video": "https://player.vimeo.com/video/1226836765"
+    },
+    {
+      "id": "idkia29gd",
+      "category": "social",
+      "client": "Instagram",
+      "titleEn": "Reel",
+      "titleEs": "Reel",
+      "video": "https://player.vimeo.com/video/1226836823"
+    },
+    {
+      "id": "idz75tg9w",
+      "category": "social",
+      "client": "Instagram",
+      "titleEn": "Reel",
+      "titleEs": "Reel",
+      "video": "https://player.vimeo.com/video/1226837155"
+    },
+    {
+      "id": "idwf2obhm",
+      "category": "social",
+      "client": "Bar",
+      "titleEn": "Reel",
+      "titleEs": "Reel",
+      "video": "https://player.vimeo.com/video/1226837156"
+    },
+    {
+      "id": "idyeir8ui",
+      "category": "social",
+      "client": "Instagram",
+      "titleEn": "Reel",
+      "titleEs": "Reel",
+      "video": "https://player.vimeo.com/video/1226836767"
+    },
+    {
+      "id": "id5neso66",
+      "category": "social",
+      "client": "Reel",
+      "titleEn": "Instagram",
+      "titleEs": "Instagram",
+      "video": "https://player.vimeo.com/video/1226836823"
     }
   ]
 }
