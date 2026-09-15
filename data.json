@@ -55,5 +55,14 @@
       "image": ""
     }
   ],
-  "reels": []
+  "reels": [
+    {
+      "id": "idf03773t",
+      "category": "fnb",
+      "client": "Restaurant",
+      "titleEn": "Restaurant",
+      "titleEs": "Restaurant",
+      "video": "https://youtube.com/shorts/kAU0kYjG3pY?feature=share"
+    }
+  ]
 }
