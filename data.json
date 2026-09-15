@@ -1,0 +1,92 @@
+{
+  "work": [
+    {
+      "id": "w1",
+      "category": "branding",
+      "client": "Dreamer Hostels",
+      "year": "2025",
+      "titleEn": "Project title",
+      "titleEs": "Título del proyecto",
+      "image": ""
+    },
+    {
+      "id": "w2",
+      "category": "social",
+      "client": "Dreamer Hostels",
+      "year": "2025",
+      "titleEn": "Project title",
+      "titleEs": "Título del proyecto",
+      "image": ""
+    },
+    {
+      "id": "w3",
+      "category": "marketing",
+      "client": "Dreamer Hostels",
+      "year": "2025",
+      "titleEn": "Project title",
+      "titleEs": "Título del proyecto",
+      "image": ""
+    },
+    {
+      "id": "w4",
+      "category": "fnb",
+      "client": "Dreamer Palomino",
+      "year": "2025",
+      "titleEn": "Menu design",
+      "titleEs": "Diseño de menú",
+      "image": ""
+    },
+    {
+      "id": "w5",
+      "category": "fnb",
+      "client": "Dreamer Cocora",
+      "year": "2025",
+      "titleEn": "Restaurant content",
+      "titleEs": "Contenido de restaurante",
+      "image": ""
+    },
+    {
+      "id": "w6",
+      "category": "branding",
+      "client": "42 Design Agency",
+      "year": "2024",
+      "titleEn": "Project title",
+      "titleEs": "Título del proyecto",
+      "image": ""
+    }
+  ],
+  "reels": [
+    {
+      "id": "r1",
+      "category": "fnb",
+      "client": "Dreamer Palomino",
+      "titleEn": "Reel title",
+      "titleEs": "Título del reel",
+      "video": ""
+    },
+    {
+      "id": "r2",
+      "category": "fnb",
+      "client": "Dreamer Cocora",
+      "titleEn": "Reel title",
+      "titleEs": "Título del reel",
+      "video": ""
+    },
+    {
+      "id": "r3",
+      "category": "branding",
+      "client": "Dreamer Bogotá",
+      "titleEn": "Reel title",
+      "titleEs": "Título del reel",
+      "video": ""
+    },
+    {
+      "id": "r4",
+      "category": "social",
+      "client": "Dreamer Palomino",
+      "titleEn": "Reel title",
+      "titleEs": "Título del reel",
+      "video": ""
+    }
+  ]
+}
